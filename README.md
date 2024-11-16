@@ -1,6 +1,6 @@
 # YALDPC
 
-## Yet another LDPC MEX toolkit for MATLAB 
+## Yet another LDPC MEX toolkit for MATLAB  with IEEE 802.11 WIFI, IEEE 802.16 WIMAX codes good for train
 ### (and perhaps even GNU Octave) 
 ### contains:
 
